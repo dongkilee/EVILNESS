@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: e1cefe54f15dff5478185b19268075ce
+timeCreated: 1496061701
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Can
+    100002: Can001
+    100004: Can002
+    100006: Can003
+    100008: Can004
+    100010: Can005
+    100012: Can006
+    100014: Can007
+    100016: Can008
+    100018: Can009
+    100020: Can010
+    100022: Can011
+    100024: Can012
+    100026: Can013
+    100028: Can014
+    100030: Can015
+    100032: Can016
+    100034: Can017
+    100036: Can018
+    100038: Can019
+    100040: Can020
+    100042: Glass
+    100044: Meatl
+    100046: //RootNode
+    100048: VendingMachine
+    400000: Can
+    400002: Can001
+    400004: Can002
+    400006: Can003
+    400008: Can004
+    400010: Can005
+    400012: Can006
+    400014: Can007
+    400016: Can008
+    400018: Can009
+    400020: Can010
+    400022: Can011
+    400024: Can012
+    400026: Can013
+    400028: Can014
+    400030: Can015
+    400032: Can016
+    400034: Can017
+    400036: Can018
+    400038: Can019
+    400040: Can020
+    400042: Glass
+    400044: Meatl
+    400046: //RootNode
+    400048: VendingMachine
+    2300000: Can
+    2300002: Can001
+    2300004: Can002
+    2300006: Can003
+    2300008: Can004
+    2300010: Can005
+    2300012: Can006
+    2300014: Can007
+    2300016: Can008
+    2300018: Can009
+    2300020: Can010
+    2300022: Can011
+    2300024: Can012
+    2300026: Can013
+    2300028: Can014
+    2300030: Can015
+    2300032: Can016
+    2300034: Can017
+    2300036: Can018
+    2300038: Can019
+    2300040: Can020
+    2300042: Glass
+    2300044: Meatl
+    2300046: VendingMachine
+    3300000: Can
+    3300002: Can001
+    3300004: Can002
+    3300006: Can003
+    3300008: Can004
+    3300010: Can005
+    3300012: Can006
+    3300014: Can007
+    3300016: Can008
+    3300018: Can009
+    3300020: Can010
+    3300022: Can011
+    3300024: Can012
+    3300026: Can013
+    3300028: Can014
+    3300030: Can015
+    3300032: Can016
+    3300034: Can017
+    3300036: Can018
+    3300038: Can019
+    3300040: Can020
+    3300042: Glass
+    3300044: Meatl
+    3300046: VendingMachine
+    4300000: VendingMachine
+    4300002: Meatl
+    4300004: Can
+    4300006: Glass
+    4300008: Can001
+    4300010: Can002
+    4300012: Can003
+    4300014: Can004
+    4300016: Can005
+    4300018: Can006
+    4300020: Can007
+    4300022: Can008
+    4300024: Can009
+    4300026: Can010
+    4300028: Can011
+    4300030: Can012
+    4300032: Can013
+    4300034: Can014
+    4300036: Can015
+    4300038: Can016
+    4300040: Can017
+    4300042: Can018
+    4300044: Can019
+    4300046: Can020
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
